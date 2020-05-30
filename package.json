@@ -1,6 +1,6 @@
 {
   "name": "cirquity-rpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cirquity RPC API Interface in NodeJS",
   "main": "index.js",
   "files": [

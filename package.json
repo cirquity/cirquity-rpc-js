@@ -1,0 +1,52 @@
+{
+  "name": "cirquity-rpc",
+  "version": "1.0.0",
+  "description": "Cirquity RPC API Interface in NodeJS",
+  "main": "index.js",
+  "files": [
+    "dist/CirquityRPC.js",
+    "lib/*"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "standard",
+    "build-docs": "jsdoc -c jsdoc.json -t ./jsdoc/minami --verbose",
+    "prepare": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cirquity/cirquity-rpc-js.git"
+  },
+  "keywords": [
+    "Cirquity",
+    "RPC",
+    "API"
+  ],
+  "author": "Brandon Lehmann <brandonlehmann@gmail.com>",
+  "contributors": [
+    "Deeterd <deeterd@pm.me>"
+  ],
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cirquity/cirquity-rpc-js/issues"
+  },
+  "homepage": "https://github.com/cirquity/cirquity-rpc-js#readme",
+  "standard": {
+    "ignore": [
+      "dist/*",
+      "docs/*"
+    ]
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  },
+  "devDependencies": {
+    "minami": "^1.2.3",
+    "standard": "^13.1.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}

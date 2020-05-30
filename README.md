@@ -66,7 +66,7 @@ You can find the full documentation for this library [here](https://js-rpc.cirqu
 ## License
 
 ```
-Copyright (C) 2018-2019 Brandon Lehmann, The Cirquity Developers
+Copyright (C) 2018-2019 Brandon Lehmann, The Turtlecoin Developers
 Copyright (c) 2019-2020, Deeterd, The Cirquity Developers
 
 Please see the included LICENSE file for more information.

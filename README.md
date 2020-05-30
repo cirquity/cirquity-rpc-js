@@ -61,13 +61,13 @@ const wallet = new CirquityAPI({
 
 ## Documentation
 
-You can find the full documentation for this library [here](https://js-rpc.cirquity.com)
+You can find the full documentation for this library [here](https://cirquity.github.io/cirquity-rpc-js)
 
 ## License
 
 ```
 Copyright (C) 2018-2019 Brandon Lehmann, The Turtlecoin Developers
-Copyright (c) 2019-2020, Deeterd, The Cirquity Developers
+Copyright (c) 2019-2020 Deeterd, The Cirquity Developers
 
 Please see the included LICENSE file for more information.
 ```

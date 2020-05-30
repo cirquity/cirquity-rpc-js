@@ -6,9 +6,6 @@
 
 ![Prerequisite](https://img.shields.io/badge/node-%3E%3D8-blue.svg) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://cirquity.github.io/cirquity-rpc-js) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/cirquity/cirquity-rpc-js/graphs/commit-activity) [![License: GPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-yellow.svg)](https://github.com/cirquity/cirquity-rpc-js/blob/master/LICENSE) [![Twitter: TurtlePay](https://img.shields.io/twitter/follow/cirquity.svg?style=social)](https://twitter.com/cirquity)
 
-#### Master Build Status
-[![Build Status](https://travis-ci.org/cirquity/cirquity-rpc-js.png?branch=master)](https://travis-ci.org/cirquity/cirquity-rpc-js) [![Build Status](https://ci.appveyor.com/api/projects/status/github/cirquity/cirquity-rpc?branch=master&svg=true)](https://ci.appveyor.com/project/cirquity/cirquity-rpc/branch/master)
-
 This project is designed to make it very easy to interact with various RPC APIs available within the [Cirquity](https://cirquity.com) Project. This entire project uses [Javascript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) to make things fast, easy, and safe.
 
 ## Table of Contents

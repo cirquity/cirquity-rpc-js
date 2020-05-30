@@ -21,7 +21,7 @@ This project is designed to make it very easy to interact with various RPC APIs 
 ## Dependencies
 
 * [NodeJS v8.x](https://nodejs.org) >= 8.x
-* [Cirquity](https://github.com/cirquity/cirquity/releases) >= v0.8.4
+* [Cirquity](https://github.com/cirquity/cirquity/releases) >= v0.4.1
 
 ## Installation
 

@@ -37,7 +37,7 @@ const daemon = new Cirquityd({
   port: 18128, // what port is the RPC server running on
   timeout: 2000, // request timeout
   ssl: false, // whether we need to connect using SSL/TLS
-  userAgent: 'cirquity-rpc/1.0.0' // specify a customer user-agent or use the default
+  userAgent: 'cirquity-rpc/1.0.2' // specify a customer user-agent or use the default
 })
 ```
 
@@ -55,7 +55,7 @@ const wallet = new CirquityAPI({
   defaultFee: 0.1, // the default fee of your network, in decimal not atomic units
   decimalDivisor: 100, // how many decimals will be used
   defaultUnlockTime: 0, // default unlock time
-  userAgent: 'cirquity-rpc/1.0.0' // specify a customer user-agent or use the default
+  userAgent: 'cirquity-rpc/1.0.2' // specify a customer user-agent or use the default
 })
 ```
 
